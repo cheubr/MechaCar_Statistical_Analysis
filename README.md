@@ -17,7 +17,13 @@
 
 
 ## T-Tests on Suspension Coils
+![Pic5](https://github.com/cheubr/MechaCar_Statistical_Analysis/blob/main/Resources/T_Test_All_Suspension_Coil.PNG)
 
+![Pic6](https://github.com/cheubr/MechaCar_Statistical_Analysis/blob/main/Resources/T_Test_Lot_1.PNG)
+
+![Pic7](https://github.com/cheubr/MechaCar_Statistical_Analysis/blob/main/Resources/T_Test_Lot_2.PNG)
+
+![Pic8](https://github.com/cheubr/MechaCar_Statistical_Analysis/blob/main/Resources/T_Test_Lot_3.PNG)
 
 
 ## Study Design: MechaCar vs Competition
